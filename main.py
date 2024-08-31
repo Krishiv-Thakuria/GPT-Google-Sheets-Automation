@@ -5,7 +5,7 @@ from google.oauth2 import service_account
 from typing import List, Dict
 
 # OpenAI API key
-openai.api_key = 'sk-proj-6McfO6lCzvmkIgFI7ddgT3BlbkFJSHeO9jl8x5v69jbfOJlS'
+openai.api_key = 'YOUR-OPENAI-API-KEY'
 
 # Global variable for row mapping
 row_mapping = {}
@@ -182,7 +182,7 @@ def main():
         print(f"{var}: {value}")
 
     # Write the extracted data to Google Sheets
-    SHEET_ID = '1Nfe8arVgI4TZ5l6ZYVmFpn6vaBKMenTR6hbSZYOxD5o'
+    SHEET_ID = 'YOUR-SHEET-ID'
     write_to_google_sheets(extracted_data, SHEET_ID, sheet_name)
 
     print("Process completed.")
