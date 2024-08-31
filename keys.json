@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "canadian-longevity-automation",
+  "private_key_id": "875c190b87425e6e4827a4dcf106fef8e145b71f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvzIm1Kfu7zTQl\nIge2ge+JkBqnJoDqIinCkNAodi0c1m+MUnkqxORHRNO4gIzk6wmA/FbDVpUHBs/t\n//3bDFXfzc9rZc5WLdfM1cMQWdhOi08h3UrMC4EvxQkSYgljPuU3Y6K/vD0lY9FV\nO797TpkZC2gNor+7MELe3h7/jb4h0oIeivLZYG+OwhlQpHPsjQaCz/1ohshiS/b7\n7LeOSkuPAYJ/Hu0xqQtx9sZvq0Iq9AnIL3hRKrUEHo49fDuPXgw2zWEE5+14eiqf\n28X5d+C7rYzR439MzP7onMEscZqeOEk/xpJuMmn06aHFTtKzAzEaGLJVPVCVi0uu\nsRZLgSpHAgMBAAECggEAHjRKRLId6jprhyW9pYHVohD8Q1O+Onv8KM2wtgL35UiC\nid1xrAOAJS6SIdUUYBBx5ZN1ZMJvgHGPMBkXiJcp+fXmeVFYjj36IdtoVFrba0NM\nKUlYHI6td4Om912Yt1CLGWUpBUBWUSJBSR+m2oy6iS8Iha88ufCkzJ3lPYsg67Zx\n/SAfo/O1eH08aji9Kgo/H67S5MkArBhyfuvQKsxLtQOKznMy2rVrgOE/0Cv7RvcV\nXC/Zn09DPLk4luBk6FN2lpbvrZSBYvujY+d6u4b8QaLmUPKLKZrSdXgaB9q38TnN\nqVIilPvvoH1TzTeveTNkELUdTm9C4p8Z+qZIxA864QKBgQDty328r0UWqS2exQDU\nK6kfB6Dg/Rg5GZ46AKsL8BoFb8C4lsXgDct1Gb+DszUNIa55JOwUQrJ5kkw55JhS\nAPnJi8yiGlSD10EJLTqbJpCV1KClumnbIKZAyFh9zaKO2XQdUNCyVZ4WuLL4n+Nq\nM3684wh8oUhxGPGmznof2MOuawKBgQC9Qf9e/tVhiB8kzNFhqxPlEqXprumpRKbb\n0zCYGNukN3XnDfO2hUHvsAxSEq3I7kymqYK8YTTJZ4jo8XeyberJlA0P7u/VIlYt\njaozk6kAriPpdau/XE4ebSUU5nnt8OyTK/ybdI4JSkmpLeOGq6ZYqFl2dqYtvpQV\nPVUrJBNylQKBgGejX7qjnPXiaAqhi9ns6XmnpntIc403WBmpfuLmE0E5UoJg2/7p\npDn2LdzldwKxIkyURfwSkZygoW497hEXccZgkqA334vSffrU5o0GQs+6awWv+EDT\nuwHTD5ZM0EN4DL5WIY8H962pc/8eGEyKAvup62H+HQeFupRbuyg0HhzfAoGATcti\nKG9B0Ox+OMdETgxfiirnLi5q99wzZmriL7MQHel6Ona+tkkCeH76IYZyDwT9VwiY\np8yhQSSg33faRurtttx3nhQOW6LYn7L6wmaw8omiU2W+KlPL/K/KrVOrzQXaiQhs\nto3rkKALtVIak5HdN9ZDp/FPj8Al6LEkYC5dHB0CgYEA3XistnO0UZeJaAz/WzVu\nTG54lK7fruKZZqKCY3xbz8CQa6ppqFHyk2VmiJbt5+qZqknw5ACTCHx/k3IH+UEu\nOPBT9UtdkBpq6AkranJ6U87JgjxdtUIjJtkGYHGqd1fDc94pjU4U4jLInqwS8wxK\nW6VHInIzlb7iuW54rl33KWk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "automation@canadian-longevity-automation.iam.gserviceaccount.com",
+  "client_id": "107670113176014835819",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/automation%40canadian-longevity-automation.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "chatcmpl-A1jZFv8wvUaHOk1weO70VFxjc1PvX",
+  "object": "chat.completion",
+  "created": 1724976853,
+  "model": "gpt-4-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n\"BUN (Blood Urea Nitrogen)\": \"4.3 mmol/L\",\n\"Creatinine\": \"57. umol/L\",\n\"eGFR (Estimated Glomerular Filtration Rate)\": \"119. mL/min/1.73m**2\",\n\"Folate (Vitamin B9)\": \"N/A\",\n\"B12 (Vitamin B12)\": \"N/A\",\n\"Cardiovascular Health\": {\n\"Apolipoprotein A\": \"N/A\",\n\"Apolipoprotein B\": \"0.58 g/L\",\n\"Lipoprotein (a)\": \"<10. nmol/L\",\n\"Total Cholesterol\": \"3.92 mmol/L\",\n\"Triglycerides\": \"0.53 mmol/L\",\n\"HDL Cholesterol\": \"1.99 mmol/L\",\n\"LDL Cholesterol\": \"1.66 mmol/L\"\n},\n\"Blood Function & Oxygen Transfer\": {\n\"Hemoglobin\": \"124. g/L\",\n\"Hematocrit\": \"0.37 l/l\",\n\"Iron\": \"13. umol/L\",\n\"MCV (Mean Corpuscular Volume)\": \"96. fl\",\n\"RBC (Red Blood Cell Count)\": \"3.8 x 10E12/L\",\n\"Total Iron Binding Capacity (TIBC)\": \"60. umol/L\",\n\"Transferrin % Saturation\": \"0.22 /1\",\n\"RDW % (Red Cell Distribution Width)\": \"14.0\",\n\"Ferritin\": \"115. ug/L\"\n},\n\"Electrolytes & Fluid\": {\n\"Sodium\": \"140. mmol/L\",\n\"Potassium\": \"4.0 mmol/L\",\n\"Chloride\": \"102. mmol/L\",\n\"Bicarbonate\": \"26. mmol/L\",\n\"Magnesium\": \"0.83 mmol/L\",\n},\n\"Digestive & Liver Health\": {\n\"GGT (Gamma-Glutamyl Transferase)\": \"13. U/L\",\n\"Albumin\": \"43. g/L\"\n},\n\"Metabolism & Weight Control\": {\n\"AST (Aspartate Aminotransferase)\": \"22. U/L\",\n\"ALT (Alanine Aminotransferase)\": \"18. U/L\",\n\"Glucose (Random)\": \"4.0 mmol/L\",\n\"HbA1C (Hemoglobin A1C)\": \"5.9 %\",\n},\n\"Immunity Function\": {\n\"WBC (White Blood Cell Count)\": \"6.2 x 10E9/L\",\n\"Neutrophil Count\": \"3.7 x10E9/L\",\n\"Basophil Count\": \"0.06 x10E9/L\",\n\"Eosinophil Count\": \"0.0 x10E9/L\",\n\"Lymphocyte Count\": \"2.0 x10E9/L\",\n\"Platelets\": \"264. x 10E9/L\",\n\"MPV (Mean Platelet Volume)\": \"10.3 fl\"\n},\n\"Bone Health\": {\n\"Alk Phos (Alkaline Phosphatase)\": \"46. U/L\",\n\"Phosphate\": \"N/A\",\n\"Calcium\": \"2.37 mmol/L\",\n\"25-Hydroxy Vitamin D\": \"N/A\"\n},\n\"Thyroid Function\": {\n\"TSH (Thyroid-Stimulating Hormone)\": \"N/A\"\n},\n\"Endocrine Function\": {\n\"Serum Total Testosterone\": \"1.5 nmol/L\",\n\"SHBG (Sex Hormone-Binding Globulin)\": \"80. nmol/L\"\n},\n\"Biometrics\": {\n\"Blood Pressure\": {\"Systolic\": \"122. mmHg\", \"Diastolic\": \"82. mmHg\"},\n\"BMI\": \"22.6 kg/m2\",\n\"Waist circumference\": \"65. cm\"\n}\n}",
+        "refusal": null
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 2628,
+    "completion_tokens": 791,
+    "total_tokens": 3419
+  },
+  "system_fingerprint": null
+}
